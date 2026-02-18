@@ -1,6 +1,6 @@
 ﻿<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dario Asurey</h1>
-<h3 align="center">Systems Trainee | Information Systems Engineering Student</h3>
+<h3 align="center">Information Systems Engineering Student</h3>
 <p align="center">
   <a href ="mailto:dario.asurey@gmail.com" target="_blank">
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" />
@@ -21,13 +21,13 @@
 Information Systems Engineering student with experience in analytical and operational environments, working with data to support decision-making and process improvement. Curious, adaptable, and data-driven, with strong critical thinking, problem-solving skills, and interest in continuous learning and experimentation.
 
 - 🎓 Information Systems Engineering student at UTN Buenos Aires.
-
+<!--
 - 💻 Focused on full-stack web development with JavaScript, React, and Node.js.
 
 - ⚡ Interested in data integration, APIs, and scalable solutions.
 
 - 📚 Continuously learning modern frameworks and tools (React, MySQL, Java, Typescript, PostgreSQL).
-
+-->
 - 🌍 Explore more of my work on GitHub [@Dasurey](https://github.com/Dasurey)
 
 - 💼 Connect with me on LinkedIn [Dario Asurey](mailto:dario.asurey@gmail.com)
@@ -135,3 +135,4 @@ Information Systems Engineering student with experience in analytical and operat
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dasurey&hide_title=false&layout=compact&langs_count=20&show_icons=true&theme=radical" alt="My Wakatime Stats" />
 
 </div>
+
