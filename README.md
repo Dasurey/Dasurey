@@ -21,6 +21,16 @@
 Information Systems Engineering student with experience in analytical and operational environments, working with data to support decision-making and process improvement. Curious, adaptable, and data-driven, with strong critical thinking, problem-solving skills, and interest in continuous learning and experimentation.
 
 - 🎓 Information Systems Engineering student at UTN Buenos Aires.
+
+- 📊 **Data Architecture & Analysis:** My most recent professional experience involves data normalization, SQL databases, Python logic, and Looker Studio. Due to confidentiality agreements with the public sector, these projects remain private.
+
+- 💻 **Software & Logic Foundation:** The public repositories below reflect my strong background in full-stack development (Node.js, React, APIs), OOP, and system design.
+
+- 🌍 Explore more of my work on GitHub [@Dasurey](https://github.com/Dasurey)
+
+- 💼 Connect with me on LinkedIn [Dario Asurey](mailto:dario.asurey@gmail.com)
+
+- ✉️ Drop me a line at [dario.asurey@gmail.com](mailto:dario.asurey@gmail.com)
 <!--
 - 💻 Focused on full-stack web development with JavaScript, React, and Node.js.
 
@@ -52,6 +62,7 @@ Information Systems Engineering student with experience in analytical and operat
       <a href="https://github.com/Dasurey?tab=repositories&q=&type=&language=haskell&sort=" target="_blank">
         <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
       </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </span>
   - <h4>⚙️ Back-end: </h4>
     <span>
@@ -93,6 +104,8 @@ Information Systems Engineering student with experience in analytical and operat
     <span>
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
     </span>
   - <h4>🛠️ Tools: </h4>
     <span>
@@ -125,6 +138,9 @@ Information Systems Engineering student with experience in analytical and operat
       <img src="https://img.shields.io/badge/Professional_Communication-2E8B57?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Professional Communication">
       <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logoColor=white" alt="SEO">
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+      <img src="https://img.shields.io/badge/Data_Analysis-1E88E5?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis">
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
     </span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
@@ -135,4 +151,5 @@ Information Systems Engineering student with experience in analytical and operat
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dasurey&hide_title=false&layout=compact&langs_count=20&show_icons=true&theme=radical" alt="My Wakatime Stats" />
 
 </div>
+
 
