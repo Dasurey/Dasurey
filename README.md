@@ -38,11 +38,6 @@ Information Systems Engineering student with experience in analytical and operat
 
 - 📚 Continuously learning modern frameworks and tools (React, MySQL, Java, Typescript, PostgreSQL).
 -->
-- 🌍 Explore more of my work on GitHub [@Dasurey](https://github.com/Dasurey)
-
-- 💼 Connect with me on LinkedIn [Dario Asurey](mailto:dario.asurey@gmail.com)
-
-- ✉️ Drop me a line at [dario.asurey@gmail.com](mailto:dario.asurey@gmail.com)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -151,5 +146,6 @@ Information Systems Engineering student with experience in analytical and operat
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dasurey&hide_title=false&layout=compact&langs_count=20&show_icons=true&theme=radical" alt="My Wakatime Stats" />
 
 </div>
+
 
 
